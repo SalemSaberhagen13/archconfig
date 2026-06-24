@@ -5,7 +5,7 @@
     "valid_extensions": [".jpg", ".png", ".webp"],
     "animation": {
       "type": "wipe",
-      "fps": 60,
+      "fps": 180,
       "step": 90
     }
   },
