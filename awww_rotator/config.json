@@ -1,5 +1,5 @@
 {
-  "DP-3": {
+  "DP-2": {
     "interval_sec": 180,
     "wallpaper_dir": "~/Pictures/vapor",
     "valid_extensions": [".jpg", ".png", ".webp"],
@@ -9,7 +9,7 @@
       "step": 90
     }
   },
-  "DP-2": {
+  "DP-1": {
     "interval_sec": 600,
     "wallpaper_dir": "~/Pictures/vapor/vert",
     "valid_extensions": [".jpg", ".png"],
